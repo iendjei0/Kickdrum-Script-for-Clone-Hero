@@ -18,7 +18,10 @@ it doesn't give you 7 continously, but just once until you release it.
 ## How to use
 As i said, the script isn't suitable for every situation. It's expected to be finely tuned accordingly.
 First you make the setup (you plug an audio interface to your pc, then a pedal as an audio input).
+Also open the script and make sure you have the needed python libraries.
 Then you launch the script and wait for 2 seconds.
 After that you will probably have to change the compared values in if statements for them to register the presses.
-Itshouldn't be that hard as the script also continously prints the volume captured from the interface.
-Well have fun! I hope it works for youuu!
+It shouldn't be that hard as the script also continously prints the volume captured from the interface.
+
+##
+**Well have fun!** I hope it works for youuu!
